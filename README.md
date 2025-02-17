@@ -8,10 +8,11 @@ Also instead of replicationg api calls using **api_data.json** I created an **Ex
 
 1. **Clone the repository**
    git clone https://github.com/Taras0333/gallery-app.git
+2. **Go to gallery-app**
    cd gallery-app
 
-2. **Install dependencies**
+3. **Install dependencies**
    npm install
 
-3. **Start the development server**
+4. **Start the development server**
    npm run dev
